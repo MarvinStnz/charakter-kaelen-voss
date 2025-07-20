@@ -11,3 +11,4 @@ SCHWÄCHEN:
 - Sozial unbeholfen: Fühlt sich in großen Menschenmengen unwohl und ist misstrauisch gegenüber Fremden.
 - Obsessiv: Vergisst manchmal seine eigene Sicherheit, wenn er einer Spur nachgeht.
 - Begrenzte Kampffähigkeiten: Verlässt sich lieber auf Flucht als auf Konfrontation.
+- Schwäche für antike Artefakte: Riskiert manchmal zu viel, um ein seltenes Stück zu bergen.
