@@ -1,0 +1,15 @@
+--- Ausrüstungsliste für die "Stardust Drifter" ---
+
+PERSÖNLICHE AUSRÜSTUNG:
+- Multifunktions-Scanner (Geo, Bio, Energie)
+- Datenpad mit verstärkter Verschlüsselung
+- Notfall-Energiepistole (nur zur Verteidigung)
+- Set an Feinmechaniker-Werkzeugen
+- Eine alte, ledergebundene Ausgabe von "Galaktische Mythen"
+
+SCHIFFSAUSRÜSTUNG:
+- Holografischer Sternenprojektor im Cockpit
+- Langstrecken-Kommunikationssystem
+- Tarnvorrichtung (verbraucht viel Energie)
+- Kleines Hydroponik-Beet für Nahrung
+- Eine mürrische, aber loyale Wartungs-KI namens "Sparks"
